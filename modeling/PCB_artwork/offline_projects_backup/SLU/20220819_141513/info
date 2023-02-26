@@ -1,0 +1,170 @@
+{
+  "uuid": "d89fc82d40348e8c94f4b10797a053ab",
+  "path": "Offline/SLU",
+  "name": "SLU",
+  "content": "",
+  "created_at": "2022-08-19 13:00:40",
+  "updated_at": "2022-08-19 14:15:13",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c8567456566de970f071e5236c3c4228",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "24ceaf1a098d89e090093746b67ac2c1",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d3d011125e59431a96bcae13bf494a89": 1,
+        "e6f4258cdb2643a28f2211c51dd70db3": 1,
+        "979c06e21ec642a589f693a9e0ce41c2": 1,
+        "424ba2d660fb41efa53fb50696dabb5c": 1,
+        "c39fabf6af60456baec22081b954dc8a": 1,
+        "959a957436084b55af41c052728da701": 1,
+        "1f37a0187a814acca81fd1f2b31b2f62": 1,
+        "d8cd98954df945ba9ce7ef9e6d494a9a": 1,
+        "88abd848f33a4170b2b66dad39f4e636": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "220uF",
+          1,
+          "CAP-TH_BD8.0-P3.50-D0.6-FD",
+          "C1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2960236",
+            "BOM_Manufacturer": "HRK(鸿瑞凯电子)",
+            "BOM_Manufacturer Part": "35V220uF CD110",
+            "puuid": "90d1b58a2d284d63b5d026a0c4e38bab",
+            "uuid": "88abd848f33a4170b2b66dad39f4e636"
+          }
+        ],
+        [
+          "1K",
+          1,
+          "RES-TH_BD8.0-L23.5-P27.50-D0.8",
+          "R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C348954",
+            "BOM_Manufacturer": "ResistorToday",
+            "BOM_Manufacturer Part": "EWWR0006J1K00T9",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "73b66b96d4f340fab7a4a42d0861075d",
+            "uuid": "1f37a0187a814acca81fd1f2b31b2f62"
+          }
+        ],
+        [
+          "150",
+          1,
+          "RES-TH_BD8.0-L23.5-P27.50-D0.8",
+          "R2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C348950",
+            "BOM_Manufacturer": "ResistorToday",
+            "BOM_Manufacturer Part": "EWWR0006J150RT9",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "73b66b96d4f340fab7a4a42d0861075d",
+            "uuid": "d8cd98954df945ba9ce7ef9e6d494a9a"
+          }
+        ],
+        [
+          "GDK101-jun",
+          1,
+          "GDK101-JUN",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "6f8ed64b487b4ab6ba91cc70e6f562c5",
+            "uuid": "d3d011125e59431a96bcae13bf494a89"
+          }
+        ],
+        [
+          "DHT-22_AM2302RA",
+          1,
+          "RHT03_DHT-22/RA",
+          "U3",
+          {
+            "BOM_Manufacturer Part": "Датчик влажности",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "73f4190d03314ec7a75fcb53972dc821",
+            "uuid": "e6f4258cdb2643a28f2211c51dd70db3"
+          }
+        ],
+        [
+          "MQ-135 SENSOR",
+          1,
+          "MQ-135",
+          "U4",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "0486c7b24ce04dcfb4fb8108af8406ab",
+            "uuid": "979c06e21ec642a589f693a9e0ce41c2"
+          }
+        ],
+        [
+          "BMP180",
+          1,
+          "BMP180",
+          "U5",
+          {
+            "BOM_Manufacturer Part": "New SchematicLib",
+            "puuid": "9e1a046bbf6749e49b7a339a528a133a",
+            "uuid": "424ba2d660fb41efa53fb50696dabb5c"
+          }
+        ],
+        [
+          "GP2Y1010AU0F",
+          1,
+          "GP2Y1010AU0F-NEW",
+          "U6",
+          {
+            "BOM_Manufacturer Part": "Senzor praf",
+            "puuid": "34db539fd2cb4b1090a436d80d2bea4f",
+            "uuid": "c39fabf6af60456baec22081b954dc8a"
+          }
+        ],
+        [
+          "ARDUINO MEGA 2560 R3 V1.0 FLIPPED N",
+          1,
+          "TWIX_MEGA_PCB____ARDUINO-MEGA2560-FOOTPRINT_",
+          "U7",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "acae73d6139f4fe9b56d030f5604a7d1",
+            "uuid": "959a957436084b55af41c052728da701"
+          }
+        ]
+      ],
+      "updateTime": 1660886113,
+      "createTime": 1660881640,
+      "histories": [],
+      "created_at": "2022-08-19 13:00:40",
+      "updated_at": "2022-08-19 14:15:13"
+    }
+  ],
+  "sort": [],
+  "title": "SLU",
+  "foldername": "SLU",
+  "schfilename": "SLU.json",
+  "schfilemtime": 1660886113412
+}

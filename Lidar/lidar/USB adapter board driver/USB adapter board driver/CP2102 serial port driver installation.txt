@@ -1,0 +1,22 @@
+##################################################################################################################################################
+Shenzhen Yuedeng Technology Co.,Ltd. 
+
+Tel.:+86 0755-8695-3040
+
+Address:F Area, 2nd Floor, Phase II, Galaxy incubator, Longgang District, Shenzhen,Guangdong, China
+##################################################################################################################################################
+
+Remarks: 
+(1) Install this driver when using the USB adapter board
+(2) This driver is compatible with Win7, Win8, Win10
+
+
+Installation process:
+(1) After decompression, 
+64-bit system, 
+select CP210xVCPInstaller_x64.exe to install, 
+32-bit system ,
+select CP210xVCPInstaller_x86.exe to install
+(2) Double-click the corresponding installer and follow the prompts to install.
+	
+	

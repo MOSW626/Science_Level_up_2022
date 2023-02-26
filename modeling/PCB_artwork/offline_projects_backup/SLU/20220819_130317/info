@@ -1,0 +1,53 @@
+{
+  "uuid": "d89fc82d40348e8c94f4b10797a053ab",
+  "path": "Offline/SLU",
+  "name": "SLU",
+  "content": "",
+  "created_at": "2022-08-19 13:00:40",
+  "updated_at": "2022-08-19 13:03:17",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c8567456566de970f071e5236c3c4228",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "d1818513537475de24e610385a5d8494",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a9831016be784235b2f1476a9fbd9958": 1,
+        "ab775ffffd734624b588d7ad03a8eb28": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "MEGAARDUINO_22",
+          1,
+          "MEGA_ARDUINO_2",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "bdd09a8103bd41dead567ac5ed827e85",
+            "uuid": "a9831016be784235b2f1476a9fbd9958"
+          }
+        ]
+      ],
+      "updateTime": 1660881797,
+      "createTime": 1660881640,
+      "histories": [],
+      "created_at": "2022-08-19 13:00:40",
+      "updated_at": "2022-08-19 13:03:17"
+    }
+  ],
+  "sort": [],
+  "title": "SLU",
+  "foldername": "SLU",
+  "schfilename": "SLU.json",
+  "schfilemtime": 1660881797160
+}
